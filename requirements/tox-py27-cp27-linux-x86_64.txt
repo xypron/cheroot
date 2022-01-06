@@ -51,7 +51,7 @@ funcsigs==1.0.2
     #   pytest
 futures==3.3.0 ; python_version == "2.7"
     # via -r requirements/tox-py27-cp27-linux-x86_64.in
-idna==2.10
+idna==3.3
     # via
     #   requests
     #   trustme
